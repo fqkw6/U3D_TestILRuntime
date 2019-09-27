@@ -1,0 +1,11 @@
+Temp/*
+Library/*
+Logs/*
+Packages/*
+.vs
+.vscode
+obj/*
+*.sln
+Assembly-*.csproj
+Hotfix/bin/*
+Hotfix/obj/*
